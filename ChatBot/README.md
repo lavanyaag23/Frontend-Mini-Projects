@@ -70,17 +70,6 @@ This project helped in learning:
 * Interactive User Interfaces
 * Frontend Development Concepts
 * Basic Chatbot Logic
-
----
-
-## 📸 Screenshot
-
-Add your chatbot screenshot here.
-
-```md
-![Lavanya AI](screenshots/chatbot.png)
-```
-
 ---
 
 ## ▶️ How to Run
